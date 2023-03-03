@@ -1,2 +1,5 @@
 Quản lý dự án nhóm 11
-okhe
+Nhóm gồm 3 thành viên:
+    Trần Hoàng Anh
+    Mai Văn Mạnh
+    Lê Hải Quang
