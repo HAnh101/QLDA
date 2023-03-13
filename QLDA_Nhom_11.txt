@@ -1,5 +1,7 @@
 Quản lý dự án nhóm 11 sang t6
 Nhóm gồm 3 thành viên:
-    Trần Hoàng Anh
-    Mai Văn Mạnh
-    Lê Hải Quang
+    A37672 Trần Hoàng Anh
+    A38520 Mai Văn Mạnh
+    A36977 Lê Hải Quang
+
+
